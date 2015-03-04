@@ -1,4 +1,4 @@
-\LoadClass[11pt,a4paper,sans]{moderncv}% possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\LoadClass[10pt,a4paper,sans]{moderncv}% possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
 
 % moderncv themes
@@ -12,20 +12,20 @@
 \RequirePackage[utf8]{inputenc}          
 \RequirePackage{geometry} % changes margins across the page
  \geometry{
- left=15mm,
- right=15mm,
- top=5mm,
- bottom=5mm,
+ left=12mm,
+ right=12mm,
+ top=4mm,
+ bottom=6mm,
 }
 \RequirePackage{amssymb}
 
 % personal data
-\name{Alex `A.J'}{Norton}
+\name{Christian Santiago}{Haug}
 %\title{Resumé title}                               % optional, remove / comment the line if not wanted
 
-\address{2422 Nottingham Drive}{Falls Church, Virginia, 22043}{USA}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
-\phone[mobile]{+1~(571)~405~0833}                   % optional, remove / comment the line if not wanted
-\email{alexnorton@vt.edu}                               % optional, remove / comment the line if not wanted
-\homepage{ajnorton.com}                         % optional, remove / comment the line if not wanted
-\social[github][github.com/ajn123]{ajn123}
-\social[linkedin][linkedin.com/in/ajnorton]{ajnorton}
+\address{4108 McQueen Drive}{Durham, North Carolina, 27705}{USA}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+1~(984)~209~8836}                   % optional, remove / comment the line if not wanted
+\email{c.s.haug@lse.ac.uk}                               % optional, remove / comment the line if not wanted
+% \homepage{ajnorton.com}                         % optional, remove / comment the line if not wanted
+% \social[github][github.com/ajn123]{ajn123}
+\social[linkedin][linkedin.com/in/christianshaug]{linkedin.com/in/christianshaug}

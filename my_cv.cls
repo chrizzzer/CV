@@ -27,5 +27,5 @@
 \phone[mobile]{+1~(984)~209~8836}                   % optional, remove / comment the line if not wanted
 \email{c.s.haug@lse.ac.uk}                               % optional, remove / comment the line if not wanted
 \homepage{christianhaug.com}                         % optional, remove / comment the line if not wanted
-\social[github][github.com/chrizzzer]{chrizzzer}
+%\social[github][github.com/chrizzzer]{chrizzzer}
 \social[linkedin][linkedin.com/in/christianshaug]{christianshaug}

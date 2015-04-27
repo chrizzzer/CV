@@ -26,6 +26,6 @@
 \address{4108 McQueen Drive}{Durham, North Carolina, 27705}{USA}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
 \phone[mobile]{+1~(984)~209~8836}                   % optional, remove / comment the line if not wanted
 \email{c.s.haug@lse.ac.uk}                               % optional, remove / comment the line if not wanted
-% \homepage{ajnorton.com}                         % optional, remove / comment the line if not wanted
-% \social[github][github.com/ajn123]{ajn123}
-\social[linkedin][linkedin.com/in/christianshaug]{linkedin.com/in/christianshaug}
+\homepage{christianhaug.com}                         % optional, remove / comment the line if not wanted
+\social[github][github.com/chrizzzer]{chrizzzer}
+\social[linkedin][linkedin.com/in/christianshaug]{christianshaug}

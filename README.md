@@ -1,13 +1,8 @@
 # CV
-Resume & Cover letter
+Business Resume
 
 To view, clone and compile with:
 ```bash
 pdflatex <filename.tex>
 open <filename.pdf>
-```
-OR
-```
-make resume # compile and open resume
-make cover # compile and open cover
 ```

@@ -1,5 +1,5 @@
 # CV
-Business Resume
+General purpose resume
 
 To view, clone and compile with:
 ```bash
